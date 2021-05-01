@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://recipe-page-ten.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/qMqHohYkdzGcs3rzJnvn">
       Solution
     </a>
     <span> | </span>
@@ -31,6 +31,7 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+  - [Here](https://recipe-page-ten.vercel.app/)
 - What was your experience?
   - I learned media queries, css grid
 - What have you learned/improved?
@@ -68,6 +69,5 @@ $ git clone https://github.com/your-user-name/your-project-name
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
 - GitHub [@HarshaVardhanNakkina](https://github.com/HarshaVardhanNakkina)
 - Twitter [@Ganeshh\_\_\_](https://twitter.com/Ganeshh___)
